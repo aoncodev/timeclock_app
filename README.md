@@ -1,4 +1,4 @@
-# lazzat_clock
+# timeclock_app
 
 A new Flutter project.
 
