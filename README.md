@@ -1,6 +1,6 @@
 # Time Clock Manager
 
-![Clocks Image](https://raw.githubusercontent.com/aoncodev/timeclock_app/main/clocks.png)
+![Clocks Image](https://raw.githubusercontent.com/aoncodev/timeclock_app/main/clock.png)
 
 **Time Clock Manager** is a Flutter application designed to help restaurants efficiently track employee attendance. It allows employees to clock in and out, records working hours, and calculates daily wages based on their attendance. This app provides an easy-to-use interface for both employees and managers, making attendance management simple and efficient.
 
