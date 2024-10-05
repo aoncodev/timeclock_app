@@ -1,16 +1,55 @@
-# timeclock_app
+# Time Clock Manager
 
-A new Flutter project.
+**Time Clock Manager** is a Flutter application designed to help restaurants efficiently track employee attendance. It allows employees to clock in and out, records working hours, and calculates daily wages based on their attendance. This app provides an easy-to-use interface for both employees and managers, making attendance management simple and efficient.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Clock In/Out**: Employees can easily clock in and out using the app.
+- **Attendance Tracking**: Keeps a record of employee attendance with timestamps.
+- **Daily Wage Calculation**: Automatically calculates daily wages based on clocked hours and hourly rates.
+- **User-Friendly Interface**: Designed with Flutter to provide a smooth and intuitive user experience.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Framework**: Flutter
+- **State Management**: [Provider / Riverpod / GetX] (choose one)
+- **Database**: SQLite
+- **Development Tools**: Dart, Flutter SDK
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+### Prerequisites
+
+- Flutter SDK
+- Dart SDK
+
+### Setup Instructions
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/your-username/time-clock-manager.git
+   cd time-clock-manager
+   ```
+
+2. **Install dependencies**:
+
+   ```bash
+   flutter pub get
+   ```
+
+3. **Run the application**:
+
+   ```bash
+   flutter run
+   ```
+
+## Usage
+
+- Launch the app on a simulator or physical device.
+- Employees can clock in/out using the provided buttons.
+- Managers can view attendance records and calculate wages.
+
+## Contributing
+
+Contributions are welcome! If you have suggestions or improvements, please fork the repository and create a pull request.
